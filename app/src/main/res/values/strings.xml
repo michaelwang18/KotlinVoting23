@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="prompt">Are YOU old enough to vote?</string>
+    <string name="nameHint">Name</string>
+    <string name="phoneHint">Phone Number</string>
+    <string name="emailCheck">Email</string>
+    <string name="bDayHint">Birthday (MM/DD/YY)</string>
+    <string name="submit">Submit</string>
+</resources>
